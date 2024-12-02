@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main() {
     int i;
     int Add=0;
     int num;
