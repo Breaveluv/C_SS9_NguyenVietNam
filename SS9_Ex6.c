@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main() {
     int a[100][100], n;
     int luaChon;
 
